@@ -302,8 +302,6 @@
 #pragma mark - 
 #pragma mark AVFoundation
 
-#include <sys/types.h>
-#include <sys/sysctl.h>
 
 - (void)initCapture {
 #if HAS_AVFF
