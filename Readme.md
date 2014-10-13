@@ -11,4 +11,4 @@ We created this repo for 2 reasons :
 1. Using Zxing ia cocoapods was really slow (until version 2.2). This was because using it implied cloning the whole Zxing repos that includes a lot of tests
 2. ZXing 2.2 in cocoa pods does not work anymore in XCode 6 due to compiling errors. 
 
-If you need to scan QR Codes in an iOs app, you need to use the built-in iOs features, unless your app needs to support iOs 6 or lower versions. 
+**If you need to scan QR Codes in an iOs app, you need to use the built-in iOs features, unless your app needs to support iOs 6 or lower versions.**
