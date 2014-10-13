@@ -10,7 +10,7 @@
   },
   "source": {
     "git": "https://github.com/applidget/zxing-ios.git",
-    "tag": "2.3"
+    "tag": "v2.3"
   },
   "source_files": [
     "cpp/core/src/zxing/**/*.cpp",
